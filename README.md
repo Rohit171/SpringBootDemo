@@ -1,2 +1,2 @@
 # SpringBootDemo
-Springboot Demo project - Student Management Crud Operations
+Springboot Demo project - BankingAppDemo
